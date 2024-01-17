@@ -83,7 +83,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   DEPENDENCIES bosdyn_msgs builtin_interfaces common_interfaces geometry_msgs std_msgs sensor_msgs
 )
 
-ament_export_dependencies(rosidl_default_runtime)
+ament_export_dependencies(rosidl_default_runtime spot_msgs)
 
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)
