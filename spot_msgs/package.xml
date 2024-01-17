@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <package format="3">
   <name>spot_msgs</name>
+  <description>Package containing spot_msgs message definitions.</description>
   <version>0.0.0</version>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
   <name>spot_msgs</name>
