@@ -10,6 +10,7 @@
   <version>0.0.0</version>
   <description>TODO: Package description</description>
   <maintainer email="maintainer@example.com">Maintainer Name</maintainer>
+  <license>BSD</license>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
